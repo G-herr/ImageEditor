@@ -1,6 +1,6 @@
 # Image Editor
 
-### This proyect uses the PIL library to edit images.
+### This project uses the PIL library to edit images.
 
 [Filter_applier.py](Filter_applier.py) Applies a filter to an image.  
 [Image_resizing.py](Image_resizing.py) Resizes an image to reduce disk space.  
